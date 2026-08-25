@@ -1,4 +1,5 @@
-RC Flight Controller
+B2 FC
+
 <img width="2160" height="1412" alt="3D_PCB1_2026-08-25" src="https://github.com/user-attachments/assets/1fd6679f-7273-41f2-a3d3-9520011c5827" />
 <img width="2160" height="1434" alt="3D_PCB1_2026-08-25 (1)" src="https://github.com/user-attachments/assets/bace9824-b864-4a71-b59f-f9e67f017c51" />
 
