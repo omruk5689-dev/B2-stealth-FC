@@ -93,12 +93,16 @@ Programming/Debugging| SWD
 PCB Design Software| EasyEDA Pro
 
 BOM
- for 5 assembled  pcbs in jlc  $150.60
+for 5 pcb              $152.10  
+ for 2 assembled       $176.37
  
-Shipping Estimate              $23.69
+Shipping Estimate      $26.32
 
-Grand Total                    $174.29
+Grand Total            $354.79
 
+<img width="570" height="465" alt="Screenshot 2026-08-27 114119" src="https://github.com/user-attachments/assets/23f7ff8b-d98a-4675-940a-a56830fa5a82" />
+<img width="1888" height="592" alt="Screenshot 2026-08-27 113951" src="https://github.com/user-attachments/assets/5f41c795-98f6-4ccc-8cc5-629215d0de16" />
+<img width="1885" height="717" alt="Screenshot 2026-08-27 114005" src="https://github.com/user-attachments/assets/e046c252-2b49-4306-821d-c94a8a8ae8fe" />
 
 
 Design Approach
