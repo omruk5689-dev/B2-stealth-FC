@@ -92,6 +92,15 @@ Telemetry| Supported
 Programming/Debugging| SWD
 PCB Design Software| EasyEDA Pro
 
+BOM
+ for 5 assembled  pcbs in jlc  $150.60
+ 
+Shipping Estimate              $23.69
+
+Grand Total                    $174.29
+
+
+
 Design Approach
 
 In designing this project, my prime objective was to build a flight controller from scratch rather than using an existing board commercially available.
